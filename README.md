@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Vazoumana,21 yo, 
+- 👋 Hi, I’m @Vazoumana,22 yo, 
 - 👀 I want to work in the Cybersecurity or Data Field 
-- 🌱 I’m currently learning Java javascript
-- 💞️ I’m looking to collaborate on ...
-- 
+- 🌱 I’m currently learning Java javascript 
 - 📫 How to reach me vazoumanapro@gmail.com
 
 <!---
